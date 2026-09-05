@@ -1,2 +1,2 @@
-# TP---Dise-o-Web
-TP de la materia dieño web
+# TP---Disegno-Web
+TP de la materia diseño web
